@@ -36,5 +36,17 @@
     "webpack": "^4.41.0",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.9.0"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluxxer-corp/travel-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluxxer-corp/travel-site/issues"
+  },
+  "homepage": "https://github.com/fluxxer-corp/travel-site#readme",
+  "description": ""
 }
